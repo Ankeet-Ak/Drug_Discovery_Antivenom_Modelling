@@ -67,16 +67,16 @@ Run the notebooks in sequence using Jupyter or JupyterLab:
 ## Key Results
 ### Visualizations
 #### Frequency of Active/Inactive Molecules
-![Fig 1 - Frequency of Molecules](images/fig1.png)
+![Fig 1 - Frequency of Molecules](images/fig-1.jpg)
 
 #### Predicted vs Experimental pIC50
-![Fig 7 - Predicted vs Experimental pIC50](images/fig7.png)
+![Fig 7 - Predicted vs Experimental pIC50](images/fig-7.jpg)
 
 #### RMSE Comparison
-![Fig 8 - RMSE Comparison](images/fig8.png)
+![Fig 8 - RMSE Comparison](images/fig-8.jpg)
 
 #### Model Training Time
-![Fig 9 - Training Time](images/fig9.png)
+![Fig 9 - Training Time](images/fig-9.jpg)
 
 (*More visualizations are in the `images` folder.*)
 

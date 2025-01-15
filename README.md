@@ -73,7 +73,7 @@ Run the notebooks in sequence using Jupyter or JupyterLab:
 ![Fig 7 - Predicted vs Experimental pIC50](images/fig-7.jpg)
 
 #### RMSE Comparison
-![Fig 8 - RMSE Comparison](images/fig-8.jpg)
+![Fig 8 - RMSE Comparison](images/fig-8.png)
 
 #### Model Training Time
 ![Fig 9 - Training Time](images/fig-9.jpg)
